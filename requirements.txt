@@ -1,9 +1,7 @@
-matplotlib
-numpy
-openpyxl
+streamlit
 pandas
+numpy
 plotly
+matplotlib
 scikit-learn
 statsmodels
-streamlit
-tqdm
